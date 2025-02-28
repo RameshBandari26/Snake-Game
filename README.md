@@ -31,3 +31,5 @@ A simple and fun Snake Game built using **HTML, CSS, and JavaScript**. Control t
 - CSS  
 - JavaScript
 
+## 🛣️ Play Online  
+You can play the game live : https://snake-game-old-version-123.netlify.app/
